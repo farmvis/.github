@@ -1,3 +1,3 @@
 # .github
 
-MAIN PROJECT REPOSITORY : https://github.com/sahusgupta/farmvis
+Main project repository : https://github.com/sahusgupta/farmvis
